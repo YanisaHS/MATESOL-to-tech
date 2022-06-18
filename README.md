@@ -75,6 +75,10 @@ Below are the steps I personally took to learn how to code. Keep in mind this wo
     
     I used to practice by making up random personal projects to work on. For example, I downloaded the text for Anna Karenina (my favorite book!) and practiced writing scripts that would count the number of times Tolstoy mentioned each character, investigate which words Tolstoy used to describe each character, etc., and compared it with my knowledge of the plot of Anna Karenina. I also practiced [web scraping](https://realpython.com/beautiful-soup-web-scraper-python/) for data collection and analysis, and for every research project I did during my MA, I tried to choose a topic that would further my own coding abilities. Working on your own projects is an important step in your coding journey as it helps you learn to code independently, read documentation, and trouble-shoot your own code.
     
+5. **Lots of random articles, tutorials, YouTube series, etc.**
+
+   I've used tons of random articles, tutorials, or YouTube series to address specific topics I wanted to learn about or practice. This is an on-going stage that allows you to customize your learning path to your own interests or professional goals.
+    
 
 ### Free resources
 
