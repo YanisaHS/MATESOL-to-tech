@@ -6,6 +6,17 @@ If you found this article helpful, consider bookmarking it or starring it on Git
 
 *Note: This article is a work-in-progress. If you have any issues or suggestions, feel free to submit a GitHub issue, send me a pull request, or [email me](https://www.yanisahaleyscherber.com/contact).*
 
+## Table of Contents  
+[About Me](https://github.com/yhscherber/MATESOL-to-tech#about-me)
+
+[Questions to Consider](https://github.com/yhscherber/MATESOL-to-tech#questions-to-consider)
+
+[Learning Resources](https://github.com/yhscherber/MATESOL-to-tech#learning-resources)
+
+[Relevant Languages, Tools, and More](https://github.com/yhscherber/MATESOL-to-tech#relevant-languages-tools-and-more)
+
+[Potential Industry Job Paths](https://github.com/yhscherber/MATESOL-to-tech#potential-industry-job-paths)
+
 ## About Me
 
 I’m a self-taught tech queen 👑 who graduated from the [University of Alabama’s MA in TESOL/Applied Linguistics](https://linguistics.english.ua.edu/) program in May 2021. I work in industry now, although I did have a brief (and extremely low-paid) stint in a PhD program, where I was a research assistant in a NLP lab. I’m currently a technical writer for an advertising management, intelligence, and analytics company, and I also freelance AI/ML coding tutorials and technical guides for a cloud computing company. Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/yanisahaley/) if you’re interested in knowing more about my experience!
