@@ -115,3 +115,23 @@ I’ve included some items you may see on job postings. Although I’ve tried to
 - **Code Editors:** Visual Studio Code, PyCharm, Jupyter Notebooks, Google CoLab
 - **Methodologies:** Agile
 - **Project Management, DevOps, or Miscellaneous:** Jira, Confluence, Asana, Markdown
+
+## Potential Industry Job Paths
+
+I’ve listed some potential job titles which you may find helpful as you consider industry careers. I am not an expert on these job paths, but they are potential careers which may be appealing to those looking to work in tech, but with backgrounds in education, applied linguistics, and TESOL. If you’re interested in any of these careers, I recommend you look at many different job postings before you’re on the job market to get an idea of what skills they require/prefer.
+
+- **Related tech careers:** Technical Curriculum Developer/Architect, Curriculum Manager, Content Developer, Technical Writer, Technical Trainer, Technical Project Manager, UX Researcher, Linguist, Analytical Linguist, Language Engineer (specifically at Amazon)
+- **Very technical, but related:** Software Engineer, Data Scientist, Data Engineer, NLP or ML Engineer
+    
+    These careers generally require an advanced knowledge of coding and surrounding technologies, and they will almost always require a coding interview (i.e., you have to code in front of the interviewer).
+    
+- **Still technical, but less related:** Business Intelligence Analyst, Data Analyst, Web Developer/Front-End Engineer, Operations Analyst
+    
+    These careers are also quite technical and are less related to education, linguistics, or research. However, if you find yourself gravitating toward the technical side, I believe these job titles are a bit easier to break into without a formal computer science or technical background.
+    
+
+### How do I find jobs?
+
+LINKEDIN! I highly recommend you use LinkedIn to find jobs and track your job applications. It’s a great resource because your online resume is right there (keep your profile updated!), and in my experience, it does well with suggesting related jobs based on your online profile and jobs you’ve clicked on/applied to.
+
+Good luck on your learning journey and/or job hunt! If you learn some new skills from this or get any of the above jobs, I am so happy for you!!! 😊
