@@ -19,7 +19,7 @@ If you found this article helpful, consider bookmarking it or starring it on Git
 
 ## About Me
 
-I’m a self-taught tech queen 👑 who graduated from the [University of Alabama’s MA in TESOL/Applied Linguistics](https://linguistics.english.ua.edu/) program in May 2021. I work in industry now, although I did have a brief (and extremely low-paid) stint in a PhD program, where I was a research assistant in a NLP lab. I’m currently a technical writer for an advertising management, intelligence, and analytics company, and I also freelance AI/ML coding tutorials and technical guides for a cloud computing company. Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/yanisahaley/) if you’re interested in knowing more about my experience!
+I’m a self-taught tech queen 👑 who graduated from the [University of Alabama’s MA in TESOL/Applied Linguistics](https://linguistics.english.ua.edu/) program in May 2021. I work in industry now, although I did have a brief (and extremely low-paid) stint in a PhD program, where I was a research assistant in a NLP lab. I’m currently a technical writer for an advertising management, intelligence, and analytics tech company, and I also freelance AI/ML coding tutorials and technical guides for a cloud computing company. Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/yanisahaley/) if you’re interested in knowing more about my experience!
 
 Disclaimer: I do not have a computer science background.
 
