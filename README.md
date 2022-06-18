@@ -57,7 +57,7 @@ Additionally, learning to code has a significant learning curve. The beginning w
 
 ### How I learned to code
 
-Below are the steps I personally took to learn how to code. Keep in mind this would have been in 2018-2019, and there are many more learning resources available now. I don’t necessarily recommend this exact learning path, since you may have different goals and there have been many advancements in NLP since 2018. However, I do recommend working on personal projects once you’ve learned the basics of Python as this is the best way to learn how to solve problems and trouble-shoot your code.
+Below are the steps I personally took to learn how to code. Keep in mind this would have been in 2018-2019, and there are many more learning resources available now. I don’t necessarily recommend this exact learning path, since you may have different goals and there have been many advancements in NLP and the tech industry since 2018. However, I do recommend working on personal projects once you’ve learned the basics of Python as this is the best way to learn how to solve problems and trouble-shoot your code.
 
 1. **[Automate the Boring Stuff](https://automatetheboringstuff.com/)** (chapters 1-6)
     
@@ -112,7 +112,7 @@ I’ve included some items you may see on job postings. Although I’ve tried to
     
 - **Other Languages**: HTML, CSS, XML, JSON, YAML
     
-    These languages are not “programming” languages because they’re used to define and structure data rather than manipulate data. These are quite a bit easier to learn than programming languages.
+    These languages are not “programming” languages because they’re used to define and structure data rather than manipulate data. These are quite a bit easier to learn than programming languages, and there are a lot of jobs that prefer candidates with basic understanding of HTML.
     
 - **Shell Scripting**: Bash, PowerShell
     
@@ -129,10 +129,10 @@ I’ve included some items you may see on job postings. Although I’ve tried to
 
 ## Potential Industry Job Paths
 
-I’ve listed some potential job titles which you may find helpful as you consider industry careers. I am not an expert on these job paths, but they are potential careers which may be appealing to those looking to work in tech, but with backgrounds in education, applied linguistics, and TESOL. If you’re interested in any of these careers, I recommend you look at many different job postings before you’re on the job market to get an idea of what skills they require/prefer.
+This list is not exhaustive, but I’ve listed some potential job titles which you may find helpful as you consider industry careers. I am not an expert on these job paths, but they are potential careers which may be appealing to those looking to work in tech, but with backgrounds in education, applied linguistics, and TESOL. If you’re interested in any of these careers, I recommend you look at many different job postings before you’re on the job market to get an idea of what skills they require or prefer.
 
-- **Related tech careers:** Technical Curriculum Developer/Architect, Curriculum Manager, Content Developer, Technical Writer, Technical Trainer, Technical Project Manager, UX Researcher, Linguist, Analytical Linguist, Language Engineer (specifically at Amazon)
-- **Very technical, but related:** Software Engineer, Data Scientist, Data Engineer, NLP or ML Engineer
+- **Related tech careers:** Technical Curriculum Developer/Architect, Curriculum Manager, Content Developer, Content/Information Architect, Technical Writer, Technical Trainer, Technical Project Manager, UX Researcher, Learning Architect, Learning and Development Consultant/Lead, Data Annotator, Linguist, Analytical Linguist, Computational Linguist, Language Engineer (specifically at Amazon)
+- **Very technical, but related:** Software Engineer, Data Scientist, Data Engineer, NLP or ML Engineer, Conversational AI Architect/Engineer
     
     These careers generally require an advanced knowledge of coding and surrounding technologies, and they will almost always require a coding interview (i.e., you have to code in front of the interviewer).
     
@@ -143,6 +143,8 @@ I’ve listed some potential job titles which you may find helpful as you consid
 
 ### How do I find jobs?
 
-LINKEDIN! I highly recommend you use LinkedIn to find jobs and track your job applications. It’s a great resource because your online resume is right there (keep your profile updated!), and in my experience, it does well with suggesting related jobs based on your online profile and jobs you’ve clicked on/applied to.
+LINKEDIN! I highly recommend you use LinkedIn to find jobs and track your job applications. It’s a great resource because your online resume is right there (keep your profile updated!), and in my experience, it does well with suggesting related jobs based on your online profile and jobs you’ve applied to.
+
+Also, if there's a specific company you want to work for, go directly to their website! Some companies allow you to make an account to keep a profile active for their recruiters, or let you set up notifications for new job postings.
 
 Good luck on your learning journey and/or job hunt! If you learn some new skills from this or get any of the above jobs, I am so happy for you!!! 😊
